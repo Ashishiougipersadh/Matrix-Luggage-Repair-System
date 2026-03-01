@@ -1,3 +1,4 @@
+# Matrix - Luggage Repair System
 A cross-platform luggage repair management system built with Flutter, designed to streamline communication and repair workflows between customers and staff.
 
 ## Project Overview
